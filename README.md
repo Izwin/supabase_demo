@@ -7,7 +7,7 @@ A Flutter app to track your coffee consumption and expenses using Supabase for b
 #### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Izwin/supabase_demo
 cd coffee_tracker
 ```
 
